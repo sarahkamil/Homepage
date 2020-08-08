@@ -1,2 +1,2 @@
 # Homepage
-a simple template for a homepage
+A simple template for a homepage
